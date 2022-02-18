@@ -26,7 +26,7 @@ PORT=#YOUR PORT
 DB_USER=#YOUR DB USER
 DB_PASSWORD=#YOUR DB PASSWORD
 DB_STORAGE=#YOUR DB URL. For SQLite: "../../database.sqlite"
-APP_URL=#YOUR DEFAULT APP URL
+APP_URL=#YOUR DEFAULT APP URL. If Angular app in dev use http://localhost:4200
 ```
 Create a `database.sqlite` file at the project root.
 
